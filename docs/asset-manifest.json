@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aws-ecs-guide/static/css/main.28301367.css",
+    "main.js": "/aws-ecs-guide/static/js/main.9da2db70.js",
+    "index.html": "/aws-ecs-guide/index.html",
+    "main.28301367.css.map": "/aws-ecs-guide/static/css/main.28301367.css.map",
+    "main.9da2db70.js.map": "/aws-ecs-guide/static/js/main.9da2db70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28301367.css",
+    "static/js/main.9da2db70.js"
+  ]
+}
